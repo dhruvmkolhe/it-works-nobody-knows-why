@@ -6,79 +6,94 @@
 
 ## 🧪 What Is This?
 
-A landing page. It's beautiful. It works. **We don't know why.**
+A prompt that generates **any frontend landing page** in **any design style**.
+Feed it to an AI. Get a masterpiece. Don't ask how.
 
-We wrote some HTML, CSS, and JS. We refreshed the browser. It looked amazing. We
-closed the editor immediately before we could accidentally break it.
-
----
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose                                                     |
-| ---------- | ----------------------------------------------------------- |
-| HTML       | The bones. Mostly intact.                                   |
-| CSS        | The makeup. Applied with confidence and zero understanding. |
-| JavaScript | The soul. Held together by vibes and `setTimeout`.          |
+25 design styles. Infinite possibilities. Zero guarantees. **It just works.**
 
 ---
 
-## 📦 Installation
+## 🎲 How It Works
 
-```bash
-git clone https://github.com/dhruvmkolhe/it-works-nobody-knows-why.git
-cd it-works-nobody-knows-why
-# Open index.html
-# Pray
+1. The prompt picks a random design style (from Neobrutalist to Luxury Minimal)
+2. It tells the AI to invent a brand, a mood, and a full single-page experience
+3. You get a stunning landing page
+4. You take credit for it
+5. Nobody questions your genius
+
+---
+
+## 🚀 How to Use
+
 ```
-
----
-
-## 🚀 How to Run
-
-1. Open `index.html` in a browser
-2. That's it
-3. Seriously, there's no build step
-4. We're not savages
+1. Copy the prompt
+2. Paste it into any AI
+3. Watch magic happen
+4. Pretend you made it yourself
+```
 
 ---
 
 ## ⚠️ Rules
 
-1. **DO NOT** refactor anything
-2. **DO NOT** ask "why is this like this?"
-3. **DO NOT** run a linter — it will cry
-4. If something breaks, close the tab and reopen. Fixed.
-5. If it's still broken, that's a feature now
+1. **DO NOT** ask "how does this work?" — we covered this in the repo name
+2. **DO NOT** try to "optimize" the prompt — it's perfect and it's scared of
+   change
+3. If the output looks bad, that's your AI's fault, not ours
+4. If the output looks amazing, you're welcome
 
 ---
 
-## 🐛 Known Bugs
+## 🎨 Supported Styles
 
-None. Because we don't test. If we don't look for bugs, they don't exist. That's
-just science.
+All of them. Seriously. The prompt has **25 design styles** including:
+
+> Neobrutalist · Swiss · Editorial · Glassmorphism · Retro-Futuristic · Bauhaus
+> · Art Deco · Minimal · Flat · Material · Neumorphic · Monochromatic ·
+> Scandinavian · Japandi · Dark Mode · Modernist · Organic · Corporate · Tech
+> Forward · Luxury Minimal · Neo-Geo · Kinetic · Gradient Modern · Typography
+> First · Metropolitan
+
+Pick one. Or don't. The prompt randomizes anyway because it doesn't trust your
+taste.
+
+---
+
+## 📊 Project Status
+
+| Metric                        | Value                    |
+| ----------------------------- | ------------------------ |
+| Works?                        | ✅ Yes                   |
+| Why?                          | ❌ Unknown               |
+| Should you modify the prompt? | 🚫 Absolutely not        |
+| Styles supported?             | 25+ (and counting never) |
+| Tests?                        | We don't do that here    |
 
 ---
 
 ## 🤝 Contributing
 
 1. Fork it
-2. Break it
+2. Change something
 3. Realize the original was perfect
 4. Close your fork in shame
 5. Star this repo as an apology
 
 ---
 
-## 📊 Project Status
+## 💬 FAQ
 
-| Metric                         | Value                 |
-| ------------------------------ | --------------------- |
-| Works?                         | ✅ Yes                |
-| Why?                           | ❌ Unknown            |
-| Should you touch it?           | 🚫 Absolutely not     |
-| Will it survive a code review? | 😂                    |
-| Tests?                         | We don't do that here |
+**Q: Can this generate a React/Vue/Svelte app?** A: It generates vibes. Your AI
+decides the rest.
+
+**Q: Is this production ready?** A: Define "production." Define "ready." Define
+"is."
+
+**Q: Who wrote this prompt?** A: Someone who was clearly in a flow state and
+should not be questioned.
+
+**Q: What if I get a bad output?** A: Run it again. The prompt works on chaos
+theory. Same input, different brilliance every time.
 
 ---
 
@@ -86,29 +101,12 @@ just science.
 
 **DWKW** — Do Whatever, Keep it Working.
 
-You are free to use, copy, modify, and distribute this code as long as you
-accept full responsibility when it inevitably stops working for reasons no one
-can explain.
-
----
-
-## 💬 FAQ
-
-**Q: Can I improve this code?** A: You can try. Others have tried. They are no
-longer with us.
-
-**Q: Is this production ready?** A: Define "production." Define "ready." Define
-"is."
-
-**Q: Who wrote this?** A: Someone who was clearly in a flow state and should not
-be questioned.
-
 ---
 
 <p align="center">
-  <i>Made with ❤️, confusion, and an mass of Stack Overflow tabs</i>
+  <i>Made with ❤️, unhinged creativity, and mass of mass of AI chat tabs</i>
 </p>
 
 <p align="center">
-  <b>⭐ Star this repo if you too write code that works for no reason ⭐</b>
+  <b>⭐ Star this repo if you too ship things that work for no reason ⭐</b>
 </p>
